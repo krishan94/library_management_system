@@ -10,7 +10,7 @@ It helps manage books in a library by allowing users to:
 * View available books
 * Issue books with student name, issue date, and duration
 * Return books
-* Calculate fine for late returns (₹10 per day)
+* Calculate fine for late returns (₹5 per day)
 
 This project is perfect for Python beginners who want to understand:
 
@@ -44,11 +44,11 @@ Return the issued book back to the library.
 
 ### 💰 Fine System
 
-Late returns are charged **₹10 per day** automatically.
+Late returns are charged **₹5 per day** automatically.
 
 ### 📚 Dictionary Data Storage
 
-Books data is managed using Python dictionaries.
+Books data is managed using Python list.
 
 ---
 
