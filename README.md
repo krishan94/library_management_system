@@ -96,7 +96,7 @@ Install Python on your PC.
 
 Download or Clone this repository.
 
-git clone https://github.com/krishan94/library-management-system.git
+git clone https://github.com/krishan94/library_management_system.git
 
 ### Step 3:
 
